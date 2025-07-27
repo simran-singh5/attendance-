@@ -1,0 +1,5 @@
+<?php include 'db.php'; ?>
+<?php include 'navbar.php'; ?>
+
+<h2>Welcome to LMS Dashboard</h2>
+<p>Use the navigation menu to manage students and attendance.</p>
